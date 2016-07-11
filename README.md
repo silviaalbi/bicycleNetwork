@@ -2,4 +2,4 @@
 Software to create a network of bike paths from data 
 We include three files:
 
-[rutes2] (rutes2.r)
+[rutes2.R] (../blob/master/rutes2.R) The main R code
