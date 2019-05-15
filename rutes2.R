@@ -22,7 +22,7 @@ estaciones<-estaciones[index,]
 N<-nrow(estaciones) #estaciones
 
 
-#### CODIGO NANDO
+#### CODIGO n
 
 #weights by use
 stationUse <- tbl_df(read.csv("datos/summaryBikes.csv"))
